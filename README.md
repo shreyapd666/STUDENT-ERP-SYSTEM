@@ -13,8 +13,13 @@ Tools Used: IntelliJ Idea, JDBC Connector, MySQL Workbench
 
 # Features:
 Easy to use Graphical User Interface
+
 Reliable Database Support
+
 Filtered Search For Records
+
 Easy Modification of Stored Records
+
 Easily Customizable
+
 Detailed collection of records
