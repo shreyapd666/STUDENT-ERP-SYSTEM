@@ -6,7 +6,9 @@ Operating System: Windows Vista/7/8/10
 
 # Development Requirements:
 Front End: Java, Java Swing
+
 Rear End: MySQL Other
+
 Tools Used: IntelliJ Idea, JDBC Connector, MySQL Workbench
 
 # Features:
